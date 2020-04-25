@@ -1,0 +1,43 @@
+<xml>
+	<recipe name="Cocoa">
+		<ingredient_list>
+			<ingredient> 3 Tablespoons sugar</ingredient>
+			<ingredient> 3 Tablespoons cocoa</ingredient>
+			<ingredient> f.g. salt</ingredient>
+			<ingredient> 3/4 cup hot water</ingredient>
+			<ingredient> 2 1/4 cup milk</ingredient>
+			<ingredient> 1/2 teaspoon vanilla</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Mix sugar, cocoa, and salt in a sauce pan.  Add hot water and stire.  Place over a medium flame and boil 2 minutes stirring constantly.  Add milk and heat over low flame until cocoa steams.  Do not boil.  Add vanilla and beat with a hand beater to keep a skin from forming.  Serve hot.  Serves 4-5.  (Note: this is the traditional cocoa recipe Mom makes on Christmas Eve.)
+		</directions>
+	</recipe>
+	<recipe name="French Hot Chocolate (Townsends)">
+		<ingredient_list>
+			<ingredient> 2 1/2 squares (oz.)unsweetened chocolate</ingredient>
+			<ingredient> 1/2 cup water</ingredient>
+			<ingredient> 3/4 cup sugar</ingredient>
+			<ingredient> dash salt</ingredient>
+			<ingredient> 1/2 cup heavy cream, whipped</ingredient>
+			<ingredient> 6 cups hot milk</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Combine chocolate and water in saucepan.  Cook over low heat, stirring until chocolate melts and mixture is blended.  Add sugar and salt.  Boil 4 minutes, stirring constantly.  Cool.  Fold in whipped cream and chill. To serve, spoon 1 rounded tablespoon chocolate mixture into each cup.  Pour in hot milk.  Stir to blend.  Garnish with dash of cinnamon, if desired.  Serve with peppermint sticks. 
+		</directions>
+	</recipe>
+	<recipe name="Orange Julius">
+		<ingredient_list>
+			<ingredient> 1 cup milk</ingredient>
+			<ingredient> 1 six ounce concentrated can orange juice</ingredient>
+			<ingredient> 1 cup water</ingredient>
+			<ingredient> 1/3 cup sugar</ingredient>
+			<ingredient> 1/2 teaspoon vanilla</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Whip in blender with 8-10 ice cubes  . Can substitute 2 cups fruit and extra ice for the orange juice and water.
+		</directions>
+	</recipe>
+</xml>

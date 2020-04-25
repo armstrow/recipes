@@ -1,0 +1,113 @@
+<xml>
+	<recipe name="Appetizer: Frozen Grapefruit Appetizer">
+		<ingredient_list>
+			<ingredient> 2 cans unsweetened grapefruit pieces</ingredient>
+			<ingredient> 1 1/2 cup sugar</ingredient>
+			<ingredient> 1 cup water</ingredient>
+			<ingredient> juice of 1 lemon</ingredient>
+			<ingredient> Ginger ale</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Mix, freeze, break pieces up, and pour ginger ale over all. 
+		</directions>
+	</recipe>
+	<recipe name="Graham Crackers">
+		<ingredient_list>
+			<ingredient> 2 cups whole wheat flour</ingredient>
+			<ingredient> 2 teaspoons baking powder</ingredient>
+			<ingredient> 1/4 teaspoon salt</ingredient>
+			<ingredient> 3 tablespoons brown sugar</ingredient>
+			<ingredient> 1/2 cup margarine</ingredient>
+			<ingredient> 2 tablespoons honey</ingredient>
+			<ingredient> 2 tablespoons milk</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Combine flour, baking powder, salt, and brown sugar.  Cut in margarine.  Mix in honey and milk.  Roll out on greased cookie sheet until about 1/4 inch thick (it is easier to roll out on a cookie sheet without sides).  Score and prick with fork.  Bake at 400 for 5 minutes. 
+		</directions>
+	</recipe>
+	<recipe name=" Mustard Sauce">
+		<ingredient_list>
+			<ingredient> 1/4 cup mustard</ingredient>
+			<ingredient> 1/4 cup vinegar</ingredient>
+			<ingredient> 1/4 cup sugar</ingredient>
+			<ingredient> 1 egg</ingredient>
+			<ingredient> 1/4 teaspoon salt</ingredient>
+			<ingredient> 1/2 cup mayonnaise</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Mix mustard and vinegar, let stand overnight. Add sugar and egg.  Cook stirring constantly until thick.  Remove from heat, add salt.  Cool and add mayonnaise. 
+		</directions>
+	</recipe>
+	<recipe name="Dill Pickles">
+		<ingredient_list>
+			<ingredient> 1 cup vinegar</ingredient>
+			<ingredient> 3 cups water</ingredient>
+			<ingredient> 3 rounded tablespoons salt</ingredient>
+			<ingredient> 1/2 teaspoon alum </ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Wash cucumbers and cut off both ends.  Pack in quart bottles along with dill weed.  Add 1/2 teaspoon alum. Bring to boil:
+		</directions>
+		<directions>
+ Pour over cucumbers and seal. 
+		</directions>
+	</recipe>
+	<recipe name="Frozen Peach Sauce">
+		<ingredient_list>
+			<ingredient> 1/2 box peaches</ingredient>
+			<ingredient> 5 cups sugar</ingredient>
+			<ingredient> 1 cup crushed pineapple (2 cups)</ingredient>
+			<ingredient> 1 large can pineapple juice</ingredient>
+			<ingredient> 6 ounces frozen orange juice</ingredient>
+			<ingredient> 1 cup lemon juice (4 lemons)</ingredient>
+			<ingredient> 6 ounces fruit fresh</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Peel and dice peaches.  Stir together and freeze.  Partially thaw and serve on ice cream, shortcake, etc. 
+		</directions>
+	</recipe>
+	<recipe name="Frozen Jam">
+		<ingredient_list>
+			<ingredient> 2 cups sugar</ingredient>
+			<ingredient> 3 tablespoons Clear Jel</ingredient>
+			<ingredient> 1/2 cup light syrup</ingredient>
+			<ingredient> 5 cups uncrushed fruit</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Was and crush fruit.  Stir clear jel into sugar, add to fruit.  Add corn syrup.  Stir until sugar dissolves. Note: When making raspberry jam, Mom uses 3 1/2 to 4 cups of sugar to stretch the raspberries. 
+		</directions>
+	</recipe>
+	<recipe name="Pear-Apple Jam">
+		<ingredient_list>
+			<ingredient> 2 cups mashed pears</ingredient>
+			<ingredient> 1 cup peeled apples, chopped fine</ingredient>
+			<ingredient> 1/4 teaspoon cinnamon</ingredient>
+			<ingredient> 1/3 cup lemon juice</ingredient>
+			<ingredient> 41/2 cup sugar  + 1 box pectin</ingredient>
+			<ingredient> (or 21/2 cups sugar + clear jel)</ingredient>
+			<ingredient> 1 cup Karo</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ 
+		</directions>
+	</recipe>
+	<recipe name="Gloop">
+		<ingredient_list>
+			<ingredient> 2 cups Elmers glue</ingredient>
+			<ingredient> 11/2 cup water</ingredient>
+			<ingredient> 1 cup water, divided into thirds</ingredient>
+			<ingredient> 3 teaspoons Borax</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ In large bowl, mix glue and 11/2 cup water.  In three bowls, add 1 teaspoon Borax to each third of a cup of water.  Add one at a time to glue mixture.  Mix with hands. 
+		</directions>
+	</recipe>
+</xml>

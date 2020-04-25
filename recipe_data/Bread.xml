@@ -1,0 +1,340 @@
+<xml>
+	<recipe name="Apple Bread">
+		<ingredient_list>
+			<ingredient>1 cup sugar</ingredient>
+			<ingredient> 2 eggs</ingredient>
+			<ingredient> 1 cup grated apples</ingredient>
+			<ingredient> 1/2 cup nuts</ingredient>
+			<ingredient> 1 teaspoon vanilla</ingredient>
+			<ingredient> 2 cups flour</ingredient>
+			<ingredient> 1/2 cup shortening or oil</ingredient>
+			<ingredient> 1/2 teaspoon salt</ingredient>
+			<ingredient> 1/3 cup buttermilk or sour milk</ingredient>
+			<ingredient> 1 teaspoon soda</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Mix together.  Top with 1 teaspoon cinnamon mixed with 3 tablespoons sugar.  Bake 1 hour at 350. 
+		</directions>
+	</recipe>
+	<recipe name="Baking Powder Biscuits">
+		<ingredient_list>
+			
+			<ingredient> 2 cups flour</ingredient>
+			<ingredient> 4 teaspoons baking powder</ingredient>
+			<ingredient> 2 tablespoons sugar</ingredient>
+			<ingredient> 1/2 teaspoon salt</ingredient>
+			<ingredient> 1/2 teaspoon cream of tartar</ingredient>
+			<ingredient> 1/2 cup shortening</ingredient>
+			<ingredient> 2/3 cup milk</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Sift together flour, baking powder, sugar, salt, cream of tartar.  Cut in shortening.  Add milk.  Mix and roll.  Bake at 375-400 for 12-15 minutes. 
+		</directions>
+	</recipe>
+	<recipe name="Balloon Buns">
+		<ingredient_list>
+			
+			<ingredient> Traditional roll dough or Quick sour cream dough</ingredient>
+			<ingredient> 1 tablespoon cinnamon</ingredient>
+			<ingredient> 1 cup sugar</ingredient>
+			<ingredient> 18 to 24 large marshmallows</ingredient>
+			<ingredient> 1/2 cup butter or margarine, melted</ingredient>
+        </ingredient_list>
+        <directions> Divide dough in half.  Roll each half about 1/4 inch thick.  Cut into 3 1/2 inch circles.  Mix cinnamon and sugar.  Dip each marshmallow in butter, then into cinnamon-sugar mixture.  Wrap dough around marshmallow, pinching tightly at the bottom.  Dip roll in butter, then in cinnamon-sugar mixture.  Place in greased medium muffin cups (2 3/4 inches in diameter).  Let rise until double.  Bake 20 to 25 minutes at 375.
+		</directions>
+	</recipe>
+	<recipe name="Banana Bread">
+		<ingredient_list>
+			<ingredient> 1/2 cup shortening</ingredient>
+			<ingredient> 1 cup sugar</ingredient>
+			<ingredient> 2 eggs</ingredient>
+			<ingredient> 3 real ripe bananas</ingredient>
+			<ingredient> 2 cups sifted flour</ingredient>
+			<ingredient> 1 teaspoon soda</ingredient>
+			<ingredient> 1/4 teaspoon salt</ingredient>
+			<ingredient> 1/2 cup nuts</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Cream shortening and sugar.  Add eggs, then the rest.  Pour into loaf pan.  Bake at 375 for 1 hour.
+		</directions>
+	</recipe>
+	<recipe name="Butter Dips (Shelley Hawker, BYU 109th)">
+		<ingredient_list>
+			<ingredient> 1/4 cup butter or margarine</ingredient>
+			<ingredient> 1 1/4 cup flour</ingredient>
+			<ingredient> 2/3 cup milk</ingredient>
+			<ingredient> 2 teaspoons baking powder</ingredient>
+			<ingredient> 2 teaspoons sugar</ingredient>
+			<ingredient> 1 teaspoon salt</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Heat oven to 450.  In square 9x9x2 inch pan, melt butter in oven.  Remove pan from oven.  Measure dry ingredients, add milk and stir until dough forms.  Turn dough onto board and knead lightly.  Roll into 8 inch square.  With floured knife, cut dough in half and then into 9 four-inch strips.  Dip each strip in butter, coating both sides.  Arrange close together in 2 rows in pan.  Bake 15-20 minutes or until golden brown.  Makes about 18 sticks.
+		</directions>
+	</recipe>
+	<recipe name="Chili-Cheese Corn Bread">
+		<ingredient_list>
+			<ingredient> 1 3/4 cup flour</ingredient>
+			<ingredient> 1/4 cup corn meal</ingredient>
+			<ingredient> 3 tablespoons baking powder</ingredient>
+			<ingredient> 1 teaspoon salt</ingredient>
+			<ingredient> 1 egg</ingredient>
+			<ingredient> 1 cup milk</ingredient>
+			<ingredient> 1/2 cup shredded cheddar cheese</ingredient>
+			<ingredient> 1 cup whole kernel corn, drained</ingredient>
+			<ingredient> 1/4 cup salad oil</ingredient>
+			<ingredient> 1 can chili con carne</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Measure all ingredients except chili into bowl; stir just until flour is moistened.  Spread chili in bottom of 8 inch square pan.  Top with batter.  Bake 45 minutes at 375 or until golden brown.
+		</directions>
+	</recipe>
+	<recipe name="Corn Bread">
+		<ingredient_list>
+			<ingredient> 3 cups cornmeal </ingredient>
+			<ingredient> 1 cup flour </ingredient>
+			<ingredient> 1 tablespoon baking powder </ingredient>
+			<ingredient> 1 teaspoon soda </ingredient>
+			<ingredient> 1 teaspoon salt </ingredient>
+			<ingredient> 4 large eggs </ingredient>
+			<ingredient> 2 1/2 cups buttermilk </ingredient>
+			<ingredient> 6 tablespoons butter </ingredient>
+			<ingredient> 1/4 cup brown sugar </ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Bake at 425 for 15 minutes.
+		</directions>
+	</recipe>
+	<recipe name="Croissants, Easy and Elegant">
+		<ingredient_list>
+			<ingredient> 4 cups flour, stirred, measured, and leveled</ingredient>
+			<ingredient> 1 cup (2 sticks) well chilled butter</ingredient>
+			<ingredient> 1 cup warm water (105-115)</ingredient>
+			<ingredient> 2 tablespoons sugar</ingredient>
+			<ingredient> 1 tablespoon active dry yeast</ingredient>
+			<ingredient> 1 1/2 teaspoons salt</ingredient>
+			<ingredient> 3/4 cup evaporated milk</ingredient>
+			<ingredient> 1 large egg</ingredient>
+			<ingredient> 1 cup flour, stirred, measured, and leveled</ingredient>
+			<ingredient> 1/2 cup (1 stick) butter, melted</ingredient>
+			<ingredient> 1 small egg or 1 egg yolk</ingredient>
+			<ingredient> 2 tablespoons evaporated milk</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ For dough, measure 4 cups flour into mixing bowl.  Cut chilled butter into flour with pastry blender until size of kidney beans.  Set aside. In large bowl, combine warm water and sugar.  Sprinkle yeast over mixture, set aside to cool for 5 minutes. To dissolved yeast add salt, evaporated milk, 1 large egg, and 1 cup flour.  beat on medium speed with mixer or use wire whisk until batter is smooth.  Stir in melted butter. Pour yeast mixture over flour-butter mixture.  Stir with wooden spoon only enough to moisten flour; do not beat.  Cover bowl; chill 2 hours or as long as 1 week. Three hours before serving, remove dough from bowl and turn dough onto floured cloth or board.  Knead very lightly once or twice to coat with flour and remove air bubbles.  Divide dough into fourths.  Roll each fourth into a 14-inch circle.  Cut into 8 or 12 wedges, depending upon size of croissant desired.  Roll each pie-shaped wedge loosely to form crescent, pulling point to elongate and stretching wide and even wider.  Set onto ungreased baking sheet with point tucked underneath and ends curved downward.  Repeat with other portions. Cover rolls and let rise 2 hours in cool place.  Before baking, brush with glaze made by blending together small egg and 2 tablespoons evaporated milk.  Bake at 375 for 15-20 minutes or until golden brown.  Remove from baking sheets. Makes 32 or 48 rolls.
+		</directions>
+	</recipe>
+	<recipe name="French Bread">
+		<ingredient_list>
+			
+			<ingredient> 2 tablespoons dry yeast</ingredient>
+			<ingredient> 2 tablespoons sugar</ingredient>
+			<ingredient> 1 tablespoon salt</ingredient>
+			<ingredient> 3 cups water</ingredient>
+			<ingredient> 2 tablespoons oil or shortening</ingredient>
+			<ingredient> 8 cups flour (approximately)</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Dissolve yeast in 1/2 cup of the water.  Add sugar, salt, oil, and remaining water.  Add half of the flour and mix well.  Add remaining flour to make a soft dough.  Knead well.  Let rise 10 minutes, then punch down.  Repeat five times.  Mold into four loaves.  Cut 1 inch deep slashes across loaves every 2-3 inches (if desired).  Brush with egg white and sprinkle with sesame seeds.  Let rise until double.  Bake 30 minutes at 400.
+		</directions>
+	</recipe>
+	<recipe name="Lemon Bread">
+		<ingredient_list>
+			<ingredient> 1/2 cup shortening or margarine</ingredient>
+			<ingredient> 1 cup sugar</ingredient>
+			<ingredient> 2 eggs</ingredient>
+			<ingredient> 1/2 cup milk</ingredient>
+			<ingredient> 1 1/2 cup flour</ingredient>
+			<ingredient> 1 teaspoon salt</ingredient>
+			<ingredient> 1 teaspoon baking powder</ingredient>
+			<ingredient> 1 grated lemon rind</ingredient>
+			<ingredient> ---</ingredient>
+			<ingredient> juice from one lemon</ingredient>
+			<ingredient> 1/2 cup sugar</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Mix ingredients in order except lemon juice and 1/2 cup sugar.  Pour into loaf pan.  Bake in oven preheated to 300 until done (about 1 hour).
+		</directions>
+	</recipe>
+	<recipe name="Popovers">
+		<ingredient_list>
+			<ingredient> 1 cup sifted flour</ingredient>
+			<ingredient> 3/4 teaspoon salt</ingredient>
+			<ingredient> 2 eggs</ingredient>
+			<ingredient> 1 cup milk</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Preheat over to 425.  Grease muffin tins or custard dishes.  Put all ingredients into mixing bowl; beat until smooth--no longer.  Pour into cups, filling 2/3 full.  Bake 40-45 minutes.  Serve at once.
+		</directions>
+	</recipe>
+	<recipe name="Pretzels, Cheesy">
+		<ingredient_list>
+			<ingredient> 1 1/2 cups flour</ingredient>
+			<ingredient> 2/3 cup milk</ingredient>
+			<ingredient> 1/2 cup shredded cheddar cheese</ingredient>
+			<ingredient> 2 tablespoons butter, softened</ingredient>
+			<ingredient> 2 teaspoons baking powder</ingredient>
+			<ingredient> 1 teaspoon sugar</ingredient>
+			<ingredient> 1 teaspoon salt</ingredient>
+			<ingredient> 1 egg, beaten</ingredient>
+			<ingredient> coarse salt</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Mix flour, milk, cheese, butter, baking powder, sugar, and salt with a fork until a soft dough forms.  Knead on floured board 10 times.  Divide dough in half.  Roll half of the dough into an 8x12-inch rectangle.  Cut into eight 1-inch strips.  Fold each strip lengthwise in half.  Pinch edges to seal.  Repeat with other half.  Twist into a pretzel shape.  Place on greased cookie sheet.  Brush with beaten egg. Sprinkle with coarse salt.  Bake at 400 for 20 minutes or until golden brown.
+		</directions>
+		<directions>
+ Variation: In place of butter use 2 tablespoons crunchy peanut butter.  Omit cheese.  Top with 2 tablespoons chopped salted peanuts instead of coarse salt. 
+		</directions>
+	</recipe>
+	<recipe name="Rolls: Cinnamon, Two-Hour (Grandma Lucas)">
+		<ingredient_list>
+			<ingredient> 2 tablespoons yeast</ingredient>
+			<ingredient> 1/2 cup warm water</ingredient>
+			<ingredient> 1/2 cup milk</ingredient>
+			<ingredient> 1/2 cup sugar</ingredient>
+			<ingredient> 3 eggs, beaten</ingredient>
+			<ingredient> 3 tablespoon shortening or oil</ingredient>
+			<ingredient> 1 teaspoon salt</ingredient>
+			<ingredient> 4 cups flour</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Dissolve yeast in warm water.  Add remaining ingredients (dough will be quite soft, but add a little more flour if it is really sticky).  Let raise 2 hours.  Place on greased surface.  Pat out with hands to about 12 inches square.  Spread with butter and sprinkle with a mixture of sugar and cinnamon.  Add nuts or raisins, if desired.  Roll up like a jelly roll.  Cut and place on baking sheet, just touching.  Let raise 20 minutes.  Bake 10-15 minutes at 400. 
+		</directions>
+	</recipe>
+	<recipe name="Judy's Rolls">
+		<ingredient_list>
+			<ingredient> 2 tablespoons yeast</ingredient>
+			<ingredient> 1/2 cup warm water</ingredient>
+			<ingredient> 1 teaspoon sugar</ingredient>
+			<ingredient> 12 cups flour</ingredient>
+			<ingredient> 2 tablespoons salt</ingredient>
+			<ingredient> 1/2 cup sugar</ingredient>
+			<ingredient> 1/3 cup dry milk</ingredient>
+			<ingredient> 5 tablespoons butter</ingredient>
+			<ingredient> 2 eggs</ingredient>
+			<ingredient> 2 teaspoons vanilla (optional)</ingredient>
+			<ingredient> 3 3/4 cups hot water</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Put yeast, warm water, and sugar in blender.  Put flour, salt, sugar, and dry milk in large mixing bowl.  Add butter, eggs, vanilla, and hot water to blender and blend.  Make a well in dry ingredients, add wet to dry, stir up and let sit in warm oven (lowest setting turned off).
+Knead until completely mixed.  Let rise good once covered by damp towel.  Punch down and let rise again.  Shape and let rise on cookie sheet for about 45 minutes.  Bake at 350 for about 20 minutes.  (Makes 50+ rolls) 
+		</directions>
+	</recipe>
+	<recipe name="Lion House Rolls">
+		<ingredient_list>
+			<ingredient> 2 tablespoons dry yeast (2 packets)</ingredient>
+			<ingredient> 2 cups warm water (110-115)</ingredient>
+			<ingredient> 1/3 cup sugar</ingredient>
+			<ingredient> 1/3 cup shortening (or 1 tablespoon olive oil)</ingredient>
+			<ingredient> 2 1/2 teaspoons salt (1/2 teaspoon)</ingredient>
+			<ingredient> 2/3 cup nonfat dry milk</ingredient>
+			<ingredient> 5 to 6 cups flour</ingredient>
+			<ingredient> 1 egg (2 egg whites)</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Combine yeast and water, let stand 5 minutes.  Add sugar, shortening, salt, dry milk, 2 cups of flour and egg.  Beat together until very smooth.  Add 2 more cups flour, one at a time and beat until very smooth.  Add 1 more cup 1/2 cup at a time until well mixed.  Dough will be sticky.  Knead and let rise until tripled in bulk (can use 1 teaspoon of oil on board instead of flour).  Shape and let rise for about 1 1/2 hours (use 1 teaspoon oil in pan to coat surface).  Bake at 400 for 15 to 20 minutes.  Makes about 3 dozen. 
+		</directions>
+	</recipe>
+	<recipe name="Orange Rolls">
+		<ingredient_list>
+			<ingredient> 2 tablespoons yeast</ingredient>
+			<ingredient> 1/4 cup lukewarm water</ingredient>
+			<ingredient> 1 teaspoon sugar</ingredient>
+			<ingredient> ----</ingredient>
+			<ingredient> 1 cup water</ingredient>
+			<ingredient> 1/2 cup shortening</ingredient>
+			<ingredient> 1/2 cup sugar</ingredient>
+			<ingredient> 2 teaspoons salt</ingredient>
+			<ingredient> ----</ingredient>
+			<ingredient> 3 eggs</ingredient>
+			<ingredient> ----</ingredient>
+			<ingredient> 4 1/2 cups flour</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Combine yeast, lukewarm water, and sugar in mixing bowl and let stand until dissolved.
+Heat water, shortening, sugar, and salt in pan until sugar is dissolved.  Set aside to cool.
+Beat eggs well and add to yeast mixture.  Add cooled shortening-sugar mixture to yeast mixture.  Add flour and beat until smooth.  Let dough rise until double (about 10 minutes).  Stir down, cover, and chill 8 hours or overnight.  Roll out 2-3 hours before ready to bake.  
+		</directions>
+		<directions>
+ 1/2 cup sugar grated rind of 1 orange 6 tablespoons butter 2 tablespoons orange juice Combine sugar, orange rind, butter, and orange juice.
+		</directions>
+		<directions>
+ Divide dough into 3 parts and roll into rectangles about 12 inches long.  Spread 1/3 of topping mixture on dough and roll up like a jelly roll.  Cut into 12 pieces.  Place in greased muffin tins and let rise 2-3 hours.  Bake at 400 degrees for 8 minutes. 
+		</directions>
+	</recipe>
+	<recipe name="Bread Sticks">
+		<ingredient_list>
+			<ingredient> 1 tablespoon active dry yeast</ingredient>
+			<ingredient> 1 tablespoon honey</ingredient>
+			<ingredient> 1 1/2 cups warm water (115)</ingredient>
+			<ingredient> 1 tablespoon malted milk powder</ingredient>
+			<ingredient> 1 teaspoon salt</ingredient>
+			<ingredient> 4 to 4 1/2 cups flour (stirred and measured)</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ In large mixing bowl soften yeast and honey in warm water.  Add malted milk powder and salt, blend.  Add flour gradually, blending in with wooden spoon until dough pulls away from sides of bowl to form a ball. Divide dough into 12 pieces.  Roll each piece between hands to make sticks up to 12 inches long.  Place lengthwise on large greased baking sheets.  Brush with beaten eggs.  Sprinkle with desired seasonings: coarse salt, poppy or sesame seeds, Parmesan cheese, etc. Allow to rise 10 to 15 minutes if desired, but not necessary.  Bake at 400 for 15 minutes or until brown.
+		</directions>
+	</recipe>
+	<recipe name="Sweet Potato Bread">
+		<ingredient_list>
+			<ingredient> 1 cup mashed sweet potatoes </ingredient>
+			<ingredient> 1/4 cup milk </ingredient>
+			<ingredient> 1 large egg </ingredient>
+			<ingredient> 2 cups bread flour </ingredient>
+			<ingredient> 1 cup wheat flour </ingredient>
+			<ingredient> 1 tablespoon brown sugar </ingredient>
+			<ingredient> 1/4 teaspoon salt </ingredient>
+			<ingredient> 1/2 teaspoon cinnamon </ingredient>
+			<ingredient> 1/4 teaspoon nutmeg </ingredient>
+			<ingredient> 1 1/4 teaspoon yeast </ingredient>
+			<ingredient> 2 tablespoons butter</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Add ingredients to bread machine.  Cook on normal white bread cycle. 
+		</directions>
+	</recipe>
+	<recipe name="Tortillas, Flour">
+		<ingredient_list>
+			<ingredient> 2 cups flour</ingredient>
+			<ingredient> 1/4 cup shortening</ingredient>
+			<ingredient> 1/2 teaspoon salt</ingredient>
+			<ingredient> 1/2 cup water</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Cut shortening into flour.  Roll into 1 inch balls.  Roll thin.  Cook on lightly oiled grill (400-450). 
+		</directions>
+	</recipe>
+	<recipe name="Whole Wheat (Lynn Winn)">
+		<ingredient_list>
+			<ingredient> 2 tablespoons dry yeast</ingredient>
+			<ingredient> 1/2 cup warm water</ingredient>
+			<ingredient> 3 cups hot water</ingredient>
+			<ingredient> 2/3 cup brown sugar</ingredient>
+			<ingredient> 4 teaspoons salt</ingredient>
+			<ingredient> 6 tablespoons oil</ingredient>
+			<ingredient> 4 cups whole wheat flour</ingredient>
+			<ingredient> 2 cups white flour</ingredient>
+			
+		</ingredient_list>
+		<directions>
+ Dissolve yeast in warm water.  Mix well.  Add up to 4 1/2 cups white flour to form soft dough (dough should be slightly sticky, but easily handled).  Let rise 1 1/2 hours.  Form into loaves (2 or 3, depending on size of loaf pan).  Place loaves into greased pans and let rise 1 hour or more.  Bake at 375 for 15 minutes; reduce heat to 350 until done (about 30 minutes). 
+		</directions>
+	</recipe>
+</xml>
